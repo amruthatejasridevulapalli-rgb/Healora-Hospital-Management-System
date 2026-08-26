@@ -1,0 +1,21 @@
+body[data-theme="lavender"]{
+    --primary:#8B5CF6;
+    --secondary:#F9A8D4;
+    --accent:#6EE7B7;
+
+    --background:#FFF9F5;
+    --surface:#FFFFFF;
+
+    --text:#2D2D2D;
+}
+
+body[data-theme="midnight"]{
+    --primary:#A855F7;
+    --secondary:#312E81;
+    --accent:#22D3EE;
+
+    --background:#171717;
+    --surface:#262626;
+
+    --text:#F5F5F5;
+}

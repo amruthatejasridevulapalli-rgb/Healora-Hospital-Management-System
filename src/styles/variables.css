@@ -1,0 +1,18 @@
+:root {
+  --primary: #8B5CF6;
+  --secondary: #F9A8D4;
+  --accent: #6EE7B7;
+
+  --background: #FFF9F5;
+  --surface: #FFFFFF;
+
+  --text: #2D2D2D;
+  --text-light: #6B7280;
+
+  --border-radius: 18px;
+
+  --shadow:
+    0 10px 25px rgba(0,0,0,.08);
+
+  --transition: 0.3s ease;
+}
